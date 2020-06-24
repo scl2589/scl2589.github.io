@@ -3,6 +3,7 @@ title: "About me"
 permalink: /about/
 layout: single
 author_profile: true
+sidebar: false
 ---
 
 안녕하세요. 

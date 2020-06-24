@@ -11,28 +11,32 @@ docs:
   - title: "FRONT-END"
     children:
       - title: "Vue.js"
-        url: /docs/front-end/vue/
+        url: /categories/#vue/
       - title: "HTML & CSS"
-        url: /docs/front-end/html_css/
+        url: /categories/#html_css/
   - title: "BACK-END"
     children: 
       - title: "Django"
-        url: /docs/back-end/django/
+        url: /categories/#django/
   - title: "Algorithm"
     children: 
       - title: "백준"
-        url: /docs/algorithm/baekjoon/
+        url: /categories/#baekjoon/
       - title: "SWEA"
-        url: /docs/algorithm/swea/
+        url: /categories/#swea/
       - title: "programmers"
-        url: docs/algorithm/programmers/
+        url: /categories/#programmers/
   - title: "Programming"
     children: 
       - title: "Python"
-        url: /docs/programming/python/
+        url: /categories/#python/
       - title: "SQL"
-        url: /docs/programming/sql/
+        url: /categories/#sql/
       - title: "Git"
-        url: docs/programming/git/
+        url: /categories/#git/
+  - title: "etc"
+    children: 
+      - title: "Markdown"
+        url: /categories/#markdown/
   # - title: "Computer Science"
   #   url: /computerscience/

@@ -269,20 +269,45 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # pages
+  - scope:
+      path: ""
+      type: pages
+    values: 
+      layout: single
+      author_profile: false 
+      sidebar:
+          nav: "docs"
+    
+  # docs
   - scope:
       path: ""
       # type: posts
       type: docs
     values:
-      # layout: single
-      # author_profile: true
-      # read_time: true
-      # comments: # true
-      # share: true
-      # related: true
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: true
+      related: true
       sidebar:
         nav: "docs"
+  #posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      author_profile: false
+      share: true
+      sidebar: 
+      nav: "docs"
+      toc : true
+      toc_label   : "목차"
+      toc_sticky  : true
+
 # # sidebar 추가하기
 # sidebar:
 #   # _docs
