@@ -1,12 +1,13 @@
 ---
 title:  "마크다운 작성법"
 excerpt: "마크다운 작성법 알아보기"
+date: 2020-01-26 12:00:00 
 
 categories:
-  - Markdown
+  - markdown
 tags:
-  - Markdown
-last_modified_at: 2020-01-26T15:00:00-00:00
+  - markdown
+# last_modified_at: 2020-01-26T15:00:00+09:00
 ---
 
 
