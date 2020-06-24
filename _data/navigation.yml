@@ -3,9 +3,9 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://scl2589.github.io/
-  # - title: "알고리즘"
-  #   url: /algorithm/
+    url: /about/
+  - title: "Category"
+    url: /category/
   # - title: "Python"
   #   url: /python/
   # - title: "Computer Science"
