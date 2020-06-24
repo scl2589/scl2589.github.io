@@ -1,7 +1,9 @@
 ---
 title:  "마크다운 작성법"
-excerpt: "마크다운 작성법 알아보기"
+excerpt: "기본적인 마크다운 작성법 알아보기"
 date: 2020-01-26 12:00:00 
+toc: true
+toc_sticky: true
 
 categories:
   - markdown
