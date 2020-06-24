@@ -8,13 +8,31 @@ main:
     url: /categories/
 
 docs:
+  - title: "FRONT-END"
+    children:
+      - title: "Vue.js"
+        url: /docs/front-end/vue/
+      - title: "HTML & CSS"
+        url: /docs/front-end/html_css/
+  - title: "BACK-END"
+    children: 
+      - title: "Django"
+        url: /docs/back-end/django/
   - title: "Algorithm"
     children: 
       - title: "백준"
-        url: /docs/baekjoon/
+        url: /docs/algorithm/baekjoon/
       - title: "SWEA"
-        url: /docs/swea/
+        url: /docs/algorithm/swea/
       - title: "programmers"
-        url: "docs/programmers"
+        url: docs/algorithm/programmers/
+    - title: "Programming"
+    children: 
+      - title: "Python"
+        url: /docs/programming/python/
+      - title: "SQL"
+        url: /docs/programming/sql/
+      - title: "Git"
+        url: docs/programming/git/
   # - title: "Computer Science"
   #   url: /computerscience/
