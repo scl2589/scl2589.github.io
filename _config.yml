@@ -280,12 +280,12 @@ defaults:
       comments: # true
       share: true
       related: true
-# sidebar 추가하기
-sidebar:
-  # _docs
-  - scope:
-    path: ""
-    type: docs
-  values:
-    sidebar:
-      nav: "docs"
+# # sidebar 추가하기
+# sidebar:
+#   # _docs
+#   - scope:
+#     path: ""
+#     type: docs
+#   values:
+#     sidebar:
+#       nav: "docs"
