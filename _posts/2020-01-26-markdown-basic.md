@@ -10,6 +10,9 @@ categories:
   - markdown
 tags:
   - markdown
+
+sidebar:
+    nav: "docs"
 # last_modified_at: 2020-01-26T15:00:00+09:00
 ---
 
