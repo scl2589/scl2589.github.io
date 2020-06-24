@@ -280,6 +280,7 @@ defaults:
       comments: # true
       share: true
       related: true
+# sidebar 추가하기
   # _docs
   - scope:
     path: ""
