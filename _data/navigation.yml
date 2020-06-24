@@ -6,7 +6,15 @@ main:
     url: /about/
   - title: "Category"
     url: /categories/
-  # - title: "Python"
-  #   url: /python/
+
+docs:
+  - title: "Algorithm"
+    children: 
+      - title: "백준"
+        url: /docs/baekjoon/
+      - title: "SWEA"
+        url: /docs/swea/
+      - title: "programmers"
+        url: "docs/programmers"
   # - title: "Computer Science"
   #   url: /computerscience/
