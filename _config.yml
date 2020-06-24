@@ -269,18 +269,19 @@ compress_html:
 
 # Defaults
 defaults:
-  # # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: # true
-  #     share: true
-  #     related: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
 # sidebar 추가하기
+sidebar:
   # _docs
   - scope:
     path: ""
