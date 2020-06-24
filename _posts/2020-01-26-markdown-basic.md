@@ -4,6 +4,7 @@ excerpt: "기본적인 마크다운 작성법 알아보기"
 date: 2020-01-26 12:00:00 
 toc: true
 toc_sticky: true
+toc_label: "목차"
 
 categories:
   - markdown
@@ -179,9 +180,3 @@ $ git push origin master
 이것은 **보드체**입니다.
 
 이것은 ~~취소선~~입니다.
-
-
-
-## 2. 과제
-
-> 현재의 pdf **문서**를 마크다운 문법을 활용하여 `00_markdown_basic.md`로 만들어 보세요.
