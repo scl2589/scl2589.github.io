@@ -272,14 +272,17 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      # type: posts
+      type: docs
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      # layout: single
+      # author_profile: true
+      # read_time: true
+      # comments: # true
+      # share: true
+      # related: true
+      sidebar:
+        nav: "docs"
 # # sidebar 추가하기
 # sidebar:
 #   # _docs
