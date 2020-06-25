@@ -7,3 +7,23 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 @import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
+
+.nav__sub-title {
+    color: cornflowerblue;
+}
+
+.masthead__menu-item > a {
+    color: #8daff1;
+}
+
+.archive__item-title > a {
+    color: #8daff1;
+}
+
+.page__date {
+    font-size: 15px;
+}
+
+.toc > header > .nav__title {
+    background-color: #8daff1;
+}

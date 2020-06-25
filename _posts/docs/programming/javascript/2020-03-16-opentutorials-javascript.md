@@ -1,3 +1,20 @@
+---
+title:  "생활코딩 JavaScript 정리"
+excerpt: "생활코딩에 있는 JavaScript 강의를 들으며 핵심 개념을 정리하였습니다."
+toc: true
+toc_sticky: true
+toc_label: "목차"
+comments: true
+
+categories:
+  - javascript
+
+tags:
+  - javascript
+
+sidebar:
+​    nav: "docs"
+---
 ## Intro
 
 - Opentutorials(생활코딩)에서  Javascript 강의를 보며 정리해보았습니다.
