@@ -10,10 +10,10 @@ main:
 docs:
   - title: "FRONT-END"
     children:
-      - title: "Vue.js"
-        url: /categories/#vue/
       - title: "HTML & CSS"
         url: /categories/#html_css/
+      - title: "Vue.js"
+        url: /categories/#vue/
   - title: "BACK-END"
     children: 
       - title: "Django"
@@ -24,12 +24,14 @@ docs:
         url: /categories/#baekjoon/
       - title: "SWEA"
         url: /categories/#swea/
-      - title: "programmers"
+      - title: "Programmers"
         url: /categories/#programmers/
   - title: "Programming"
     children: 
       - title: "Python"
         url: /categories/#python/
+      - title: "JavaScript"
+        url: /categories/#javascript/
       - title: "SQL"
         url: /categories/#sql/
       - title: "Git"
