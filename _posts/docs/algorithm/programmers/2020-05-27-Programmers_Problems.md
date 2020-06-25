@@ -1,12 +1,29 @@
-# 프로그래머스 문제 풀기
+---
+title:  "Programmers SQL 문제"
+excerpt: "Programmers에 있는 SQL문제를 풀어보았습니다."
+date: 2020-05-27 10:15:00 
+toc: true
+toc_sticky: true
+toc_label: "목차"
+comments: true
 
+categories:
+  - programmers
+
+tags:
+  - sql
+  - programmers
+
+sidebar:
+​    nav: "docs"
+---
 ### Intro
 
 - 워낙 기초만 배우고 문제를 풀고 있기 때문에 한 번에 풀지 못했거나, 아직 헷갈리는 부분이 있는 문제만 정리해두었습니다.
 
 
 
-### 문제 설명
+### 전체적인 문제 설명
 
 `ANIMAL_OUTS` 테이블은 동물 보호소에서 입양 보낸 동물의 정보를 담은 테이블입니다. `ANIMAL_OUTS` 테이블 구조는 다음과 같으며, `ANIMAL_ID`, `ANIMAL_TYPE`, `DATETIME`, `NAME`, `SEX_UPON_OUTCOME`는 각각 동물의 아이디, 생물 종, 입양일, 이름, 성별 및 중성화 여부를 나타냅니다.
 
