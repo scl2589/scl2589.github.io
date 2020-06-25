@@ -84,14 +84,17 @@ body {
 
 .page__content {
   h2 {
+    padding-top: 0.5em;
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
 
 	h1, h2, h3, h4, h5, h6 {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
 		.header-link {
 			position: relative;
-			left: 0.5em;
+      left: 0.5em;
 			opacity: 0;
 			font-size: 0.8em;
 			-webkit-transition: opacity 0.2s ease-in-out 0.1s;
