@@ -4,8 +4,8 @@ permalink: /about/
 layout: single
 author_profile: true
 sidebar: false
----
 
+---
 안녕하세요. 
 
 대학교 때 교양으로 Introduction to Computer Programming 이라는 수업을 통해 python을 우연히 접하게 되었고, 그 이후에도 멋쟁이 사자처럼에서 활동하고, 다양한 수업을 들으며 개발자의 꿈을 키웠습니다.

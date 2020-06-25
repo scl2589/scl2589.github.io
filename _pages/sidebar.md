@@ -1,4 +1,0 @@
----
-sidebar:
-    nav: "docs"
----
