@@ -1,4 +1,4 @@
-\---
+---
 
 title:  "커밋을 변경 및 수정하는 방법"
 
@@ -18,15 +18,15 @@ comments: true
 
 categories:
 
-  \- git
+  - git
 
 tags:
 
-  \- git
+  - git
 
-  \- commit message
+  - commit message
 
-  \- 커밋메시지
+  - 커밋메시지
 
 
 
@@ -36,7 +36,7 @@ sidebar:
 
 \# last_modified_at: 2020-01-26T15:00:00+09:00
 
-\---
+---
 
 ## 커밋을 변경/수정하는 방법
 
