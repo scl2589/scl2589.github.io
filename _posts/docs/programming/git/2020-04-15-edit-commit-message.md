@@ -1,40 +1,23 @@
 ---
-
 title:  "커밋을 변경 및 수정하는 방법"
-
 excerpt: "Commit 메시지의 중요성과 변경 및 수정 방법 알아보기"
-
 date: 2020-04-15 12:00:00 
-
 toc: true
-
 toc_sticky: true
-
 toc_label: "목차"
-
 comments: true
 
-
-
 categories:
-
   - git
 
 tags:
-
   - git
-
   - commit message
-
   - 커밋메시지
 
-
-
 sidebar:
-
 ​    nav: "docs"
 
-\# last_modified_at: 2020-01-26T15:00:00+09:00
 
 ---
 
