@@ -26,6 +26,8 @@ docs:
         url: /categories/#swea/
       - title: "Programmers"
         url: /categories/#programmers/
+      - title: "Coding Test preparation"
+        url: /categories/codingtest/
   - title: "Programming"
     children: 
       - title: "Python"
