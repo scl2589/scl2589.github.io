@@ -3,7 +3,7 @@ title: "Git"
 permalink: /categories/git/
 layout: category
 author_profile: true
-taxonomy: git
+taxonomy: Git
 ---
 
 git 관련 게시글입니다.
