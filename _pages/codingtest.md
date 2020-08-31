@@ -1,7 +1,7 @@
 ---
 title: "Coding Test"
 permalink: /algorithm/codingtest/
-layout: categories
+# layout: categories
 author_profile: true
 taxonomy: markdown
 ---
