@@ -1,7 +1,7 @@
 ---
 title: "Git"
-permalink: /programming/git/
-layout: posts
+permalink: /categories/git/
+layout: category
 author_profile: true
 taxonomy: git
 ---
