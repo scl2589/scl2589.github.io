@@ -1,7 +1,7 @@
 ---
 title: "Python"
-permalink: /categories/python/
-layout: category
+permalink: /programming/python/
+layout: posts
 author_profile: true
 taxonomy: python
 ---

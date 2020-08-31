@@ -1,7 +1,7 @@
 ---
 title: "SQL"
-permalink: /categories/sql/
-layout: category
+permalink: /programming/sql/
+layout: posts
 author_profile: true
 taxonomy: sql
 ---

@@ -1,7 +1,7 @@
 ---
 title: "SWEA"
-permalink: /categories/swea/
-layout: category
+permalink: /algorithm/swea/
+layout: posts
 author_profile: true
 taxonomy: markdown
 ---

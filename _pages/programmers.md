@@ -1,7 +1,7 @@
 ---
 title: "Programmers"
-permalink: /categories/programmers/
-layout: category
+permalink: /algorithm/programmers/
+layout: posts
 author_profile: true
 taxonomy: programmers
 ---

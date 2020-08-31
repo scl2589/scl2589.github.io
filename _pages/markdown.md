@@ -1,7 +1,7 @@
 ---
 title: "Markdown"
-permalink: /categories/markdown/
-layout: category
+permalink: /markdown/
+layout: posts
 author_profile: true
 taxonomy: markdown
 ---

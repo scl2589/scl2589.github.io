@@ -1,7 +1,7 @@
 ---
 title: "Vue.js"
-permalink: /categories/vue/
-layout: category
+permalink: /frontend/vue/
+layout: posts
 author_profile: true
 taxonomy: vue
 ---

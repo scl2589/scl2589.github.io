@@ -1,7 +1,7 @@
 ---
 title: "Django"
-permalink: /categories/django/
-layout: category
+permalink: /backend/django/
+layout: posts
 author_profile: true
 taxonomy: django
 ---
