@@ -1,7 +1,7 @@
 ---
 title: "Javascript"
-permalink: /programming/javascript/
-layout: posts
+permalink: /categories/javascript/
+layout: category
 author_profile: true
 taxonomy: javascript
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Vue.js"
-permalink: /frontend/vue/
-layout: posts
+permalink: /categories/vue/
+layout: category
 author_profile: true
-taxonomy: Vue
+taxonomy: vue
 ---
 
 Vue.js 관련 게시글입니다.
