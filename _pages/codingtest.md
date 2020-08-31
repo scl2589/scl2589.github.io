@@ -1,7 +1,7 @@
 ---
 title: "Coding Test"
-permalink: /algorithm/codingtest/
-# layout: categories
+permalink: /categories/#codingtest/
+layout: category
 author_profile: true
 taxonomy: markdown
 ---
