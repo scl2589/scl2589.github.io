@@ -1,6 +1,6 @@
 ---
 title: "Coding Test"
-permalink: /categories/#codingtest/
+permalink: /categories/codingtest/
 layout: category
 author_profile: true
 taxonomy: markdown
