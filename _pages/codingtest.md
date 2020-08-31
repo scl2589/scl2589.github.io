@@ -1,6 +1,6 @@
 ---
 title: "Coding Test"
-permalink: /codingtest/
+permalink: /algorithm/codingtest/
 layout: posts
 author_profile: true
 taxonomy: markdown
