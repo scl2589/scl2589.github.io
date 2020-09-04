@@ -1,4 +1,4 @@
-\---
+---
 
 title: "JavaScript For문 및 sort"
 
@@ -16,13 +16,13 @@ comments: true
 
 categories:
 
- \- javascript
+ - javascript
 
 
 
 tags:
 
- \- javascript
+ - javascript
 
 
 
@@ -30,7 +30,7 @@ sidebar:
 
   nav: "docs"
 
-\---
+---
 
 
 
