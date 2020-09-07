@@ -1,7 +1,7 @@
 ---
 title:  "Greedy 문제 3탄"
 excerpt: "Greedy 문제들을 풀어보았습니다 (3탄)."
-date: 2020-08-29 00:30:00 
+date: 2020-08-31 00:30:00 
 toc: true
 toc_sticky: true
 toc_label: "목차"
