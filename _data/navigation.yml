@@ -38,6 +38,8 @@ docs:
         url: /categories/network
       - title: "자료구조"
         url: /categories/datastructure
+      - title: "데이터베이스"
+        url: /categories/database
       - title: "Web"
         url: /categories/web
       - title: "Frontend"
